@@ -5,4 +5,5 @@ Heatpump.ninja enables the synthetic generation of heat pump load profiles for d
 This repository serves as open-source publication of the underlying model and shows the evaluation based on 2018 data from [1]. The source code is published under the MIT license.
 
 [1] Marlon Schlemminger et al. “Dataset on electrical single-family house and heat pump load profiles in Germany”. In: Scientific Data 9.1 (2022), p. 56.
-[2] Semmelmann et al. “Synthetic residential heat pump load profile generation using k-means clustering”. Under Review.
+
+[2] Semmelmann et al. “Synthetic residential heat pump load profile generation using k-means clustering”. In: Energy Informatics.
